@@ -4,7 +4,9 @@
 
 <a href="https://muhammadkaifnazeer.github.io/sundownstudios/" target="_blank" rel="noopener noreferrer">
 <button>Visit Site</button>
-</a>  ## About Sundown Studios
+</a>
+
+## About Sundown Studios
 
 This project is a faithful recreation of the official Sundown Studios landing page. It serves as a learning and practice exercise for front-end development techniques.
 
@@ -29,4 +31,4 @@ All required JavaScript libraries are included using Content Delivery Networks (
 
 I'm Muhammad Kaif Nazeer, a full-stack web developer passionate about creating engaging and user-friendly web experiences. Sundown Studios is a testament to my skills in design, development, and code implementation.
 
-Feel free to explore my portfolio website for more of my work: [Your Portfolio Website Link](https://muhammadkaifnazeer.netlify.app)  ```
+Feel free to explore my portfolio website for more of my work: [Portfolio](https://muhammadkaifnazeer.netlify.app)  ```
